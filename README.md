@@ -9,6 +9,10 @@ Authors:
 
 The codebase is maintained by [Iordanis Fostiropoulos](https://iordanis.me). For any questions please reach out.
 
+## License
+
+Before downloading or using any part of the code in this repository, please review and acknowledge the terms and conditions set forth in both the ["License Terms"](./LICENSE) and ["Third Party License Terms"](./THIRD-PARTIES-LICENSE) included in this repository. Continuing to download and use any part of the code in this repository confirms you agree with these terms and conditions.
+
 ## Introduction
 
 ![metrics_explanation](assets/metrics_explanation_easy.jpg)
@@ -108,6 +112,3 @@ We introduce specialized and interpretable metrics to evaluate two key aspects o
 ### Relation Fidelity Score
 Evaluate the success of representing the desired prompt object-interactions on the generated image. Considering the difficulty of even specialized Scene Graph Generation (SGG) models to understand visual relations, this metric introduces a valuable localized insight into the ability of the personalized model to faithfully depict the prompted relations.
 
-## License
-
-Before downloading or using any part or the code in this repository the propsective user acknowledges that they have read and agreed with the terms described in the license shown in [LICENSE](./LICENSE) and the Third Party License Terms shown in [THIRD-PARTIES](./THIRD-PARTIES-LICENSE).
