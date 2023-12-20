@@ -1,0 +1,21 @@
+{
+    "prompts": [
+        "{} as a clown skiing",
+        "{} as a firefighter taking a degree",
+        "{} next to a shark gazing upon space"
+    ],
+    "detectables": [
+        [
+            "clown",
+            "skis"
+        ],
+        [
+            "firefighter",
+            "degree"
+        ],
+        [
+            "shark",
+            "space"
+        ]
+    ]
+}

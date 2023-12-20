@@ -1,0 +1,14 @@
+{
+    "attributes": {
+        "Young": 1,
+        "Male": -1,
+        "High_Cheekbones": 1,
+        "Pointy_Nose": -1,
+        "Narrow_Eyes": 1,
+        "Double_Chin": -1,
+        "Big_Lips": -1,
+        "Big_Nose": -1
+    },
+    "identity": 2,
+    "original_filename": "2.jpg"
+}

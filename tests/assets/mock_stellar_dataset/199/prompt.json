@@ -1,0 +1,20 @@
+{
+    "prompts": [
+        "{} in cowboy boots at a sunny day",
+        "{} as the Pope cooking rice",
+        "{} as an astronaut holding a cup of coffee"
+    ],
+    "detectables": [
+        [
+            "cowboy boots"
+        ],
+        [
+            "rice",
+            "Pope"
+        ],
+        [
+            "astronaut",
+            "coffee"
+        ]
+    ]
+}

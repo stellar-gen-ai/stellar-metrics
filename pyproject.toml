@@ -1,0 +1,30 @@
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel", "build"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+zip-safe = false
+
+
+[project]
+
+name = "stellar_metrics"
+
+authors = []
+
+dynamic = ["version", "dependencies", "optional-dependencies"]
+keywords = []
+description = "STELLAR Human-Centric Evaluation Metrics"
+requires-python = ">=3.10"
+readme = "README.md"
+
+license = { text = "proprietary" }
+
+[project.urls]
+homepage = "https://github.com/stellar-gen-ai/stellar-metrics"
+
+[tool.setuptools.dynamic]
+version = { attr = "stellar_metrics.__version__" }
+dependencies = { file = ["requirements.txt"] }
+optional-dependencies = { dev = { file = ["dev-requirements.txt"] } }

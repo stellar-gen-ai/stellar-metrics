@@ -1,0 +1,25 @@
+In order to use the Code, please review and acknowledge the following third-party open-source software/code licenses and the copyright notices therein:
+
+©2023 Stability AI CreativeML Open RAIL++-M License dated July 26, 2023 - https://github.com/Stability-AI/generative-models/blob/main/model_licenses/LICENSE-SDXL1.0
+
+©2016-Present, Facebook Inc. et al All rights reserved. - https://github.com/pytorch/pytorch/blob/main/LICENSE
+
+©2008-2011, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team All rights reserved.- https://github.com/pandas-dev/pandas/blob/main/LICENSE
+
+©2010-2023 by Jeffrey A. Clark (Alex) and contributors- https://github.com/python-pillow/Pillow/blob/main/LICENSE
+
+©2016  Soumith Chintala, All rights reserved.- https://github.com/pytorch/vision/blob/main/LICENSE
+
+©2015 - 2018 Kentaro Wada= https://github.com/wkentaro/gdown/blob/main/LICENSE
+
+©1989, 1991 Free Software Foundation, Inc.: https://github.com/tabulate/tabulate/blob/master/LICENSE.txt
+
+©2019 Timothy Esler: https://github.com/timesler/facenet-pytorch/blob/master/LICENSE.md
+
+HPSv2: https://github.com/tgxs002/HPSv2/blob/master/LICENSE
+
+©2023 Jiazheng Xu, Xiao Liu Image-Reward: https://github.com/THUDM/ImageReward/blob/main/LICENSE
+
+©2021 OpenAI: https://github.com/openai/CLIP/blob/main/LICENSE
+
+©2023 Shobhita Sundaram, Netanel Tamir, Stephanie Fu, Richard Zhang: https://github.com/ssundaram21/dreamsim/blob/main/LICENSE
