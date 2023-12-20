@@ -4,7 +4,7 @@ Code for our paper:
 [Stellar: Systematic Evaluation of Human-Centric Personalized Text-to-Image Methods](https://stellar-gen-ai.github.io/#authors)
 
 Authors:
-[Panos Achlioptas*](), [Alexandros Benetatos*](), [Iordanis Fostiropoulos*](https://iordanis.me), [Dimitris Skourtis*]()
+[Panos Achlioptas](https://optas.github.io), [Alexandros Benetatos](), [Iordanis Fostiropoulos](https://iordanis.me), [Dimitris Skourtis]()
 
 
 The codebase is maintained by [Iordanis Fostiropoulos](https://iordanis.me). For any questions please reach out.
