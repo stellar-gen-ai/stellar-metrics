@@ -38,6 +38,7 @@ class CLIP:
         inputs = self.tokenizer(
             prompt,
             padding=True,
+            truncation=True,
             return_tensors="pt",
         ).to(self.device)
         pixel_values = torch.from_numpy(
